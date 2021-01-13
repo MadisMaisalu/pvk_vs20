@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="577dcdfb-febf-4dcf-bbf3-940ca1e0a4fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/Core.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +72,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610360560259</updated>
-      <workItem from="1610360561330" duration="5107000" />
+      <workItem from="1610360561330" duration="6374000" />
     </task>
+    <task id="LOCAL−00001" summary="esimene ül">
+      <created>1610528032789</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1610528032789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +97,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="esimene ül" />
+    <option name="LAST_COMMIT_MESSAGE" value="esimene ül" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="238" key="#Deployment" timestamp="1610361130119">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -104,9 +114,17 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1220" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1610361122744" />
-    <state x="1274" y="503" key="NewPhpFileDialog" timestamp="1610360844145">
+    <state x="1033" y="309" key="NewPhpClassDialog" timestamp="1610528668608">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1274" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610360844145" />
+    <state x="1033" y="309" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610528668608" />
+    <state x="1274" y="503" key="NewPhpFileDialog" timestamp="1610528624670">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1274" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610528624670" />
+    <state x="1038" y="316" key="Vcs.Push.Dialog.v2" timestamp="1610528038069">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1038" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1610528038069" />
   </component>
 </project>
