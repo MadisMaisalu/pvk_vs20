@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="577dcdfb-febf-4dcf-bbf3-940ca1e0a4fd" name="Default Changelist" comment="Lingi andmed on ettevalmistatud kasutamiseks">
-      <change afterPath="$PROJECT_DIR$/app/libs/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/bootstrap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/Pages.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Pages.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/Posts.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Posts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/Controller.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610360560259</updated>
       <workItem from="1610360561330" duration="7839000" />
-      <workItem from="1610618464847" duration="3372000" />
+      <workItem from="1610618464847" duration="4610000" />
     </task>
     <task id="LOCAL−00001" summary="esimene ül">
       <created>1610528032789</created>
@@ -105,7 +105,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1610620761565</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Loodud põhikontroller ja määratud vaade faili laadimisvõimalused">
+      <created>1610622929192</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1610622929192</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +135,8 @@
     <MESSAGE value="Lingi andmed on ettevalmistatud kasutamiseks" />
     <MESSAGE value="Kontroller on määratud ja võetud kasutusele kontrolleri objekti näol" />
     <MESSAGE value="Määratud ja võetud kasutusele kontrolleri meetod ning võimalikud parameetrid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Määratud ja võetud kasutusele kontrolleri meetod ning võimalikud parameetrid" />
+    <MESSAGE value="Loodud põhikontroller ja määratud vaade faili laadimisvõimalused" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loodud põhikontroller ja määratud vaade faili laadimisvõimalused" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="238" key="#Deployment" timestamp="1610361130119">
@@ -148,13 +155,13 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1116" y="358" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610620892284" />
-    <state x="1274" y="503" key="NewPhpFileDialog" timestamp="1610528624670">
+    <state x="1274" y="503" key="NewPhpFileDialog" timestamp="1610623129117">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1274" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610528624670" />
-    <state x="1038" y="316" key="Vcs.Push.Dialog.v2" timestamp="1610620764087">
+    <state x="1274" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610623129117" />
+    <state x="1038" y="316" key="Vcs.Push.Dialog.v2" timestamp="1610622930563">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1038" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1610620764087" />
+    <state x="1038" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1610622930563" />
   </component>
 </project>
