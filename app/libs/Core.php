@@ -24,7 +24,7 @@ class Core
         }
         $this->params = $url ? array_values($url) : array();
 
-        call_user_func_array(array($this->currentController, $this->currentmMthod), $this->params);
+        call_user_func_array(array($this->currentController, $this->currentMethod), $this->params);
     }
     // get url data
     public function getUrl(){
