@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="577dcdfb-febf-4dcf-bbf3-940ca1e0a4fd" name="Default Changelist" comment="loetud lingiga edastatud andmed ja valmistatud ette nende töötluseks abifailid">
+    <list default="true" id="577dcdfb-febf-4dcf-bbf3-940ca1e0a4fd" name="Default Changelist" comment="Lingi andmed on ettevalmistatud kasutamiseks">
+      <change afterPath="$PROJECT_DIR$/app/controllers/Pages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/Posts.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/libs/Core.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/Core.php" afterDir="false" />
     </list>
@@ -69,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610360560259</updated>
-      <workItem from="1610360561330" duration="7003000" />
+      <workItem from="1610360561330" duration="7839000" />
+      <workItem from="1610618464847" duration="995000" />
     </task>
     <task id="LOCAL−00001" summary="esimene ül">
       <created>1610528032789</created>
@@ -83,7 +86,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1610529219968</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Lingi andmed on ettevalmistatud kasutamiseks">
+      <created>1610530017778</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1610530017778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,11 +108,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="esimene ül" />
     <MESSAGE value="loetud lingiga edastatud andmed ja valmistatud ette nende töötluseks abifailid" />
-    <option name="LAST_COMMIT_MESSAGE" value="loetud lingiga edastatud andmed ja valmistatud ette nende töötluseks abifailid" />
+    <MESSAGE value="Lingi andmed on ettevalmistatud kasutamiseks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lingi andmed on ettevalmistatud kasutamiseks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="238" key="#Deployment" timestamp="1610361130119">
@@ -118,17 +129,17 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1220" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1610361122744" />
-    <state x="1033" y="309" key="NewPhpClassDialog" timestamp="1610528668608">
+    <state x="1116" y="358" key="NewPhpClassDialog" timestamp="1610618843076">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1033" y="309" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610528668608" />
+    <state x="1116" y="358" key="NewPhpClassDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610618843076" />
     <state x="1274" y="503" key="NewPhpFileDialog" timestamp="1610528624670">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="1274" y="503" key="NewPhpFileDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1610528624670" />
-    <state x="1038" y="316" key="Vcs.Push.Dialog.v2" timestamp="1610529226536">
+    <state x="1038" y="316" key="Vcs.Push.Dialog.v2" timestamp="1610530020880">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="1038" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1610529226536" />
+    <state x="1038" y="316" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1610530020880" />
   </component>
 </project>
