@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="577dcdfb-febf-4dcf-bbf3-940ca1e0a4fd" name="Default Changelist" comment="Lingi andmed on ettevalmistatud kasutamiseks">
-      <change afterPath="$PROJECT_DIR$/app/libs/Database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/Page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/Post.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/bootstrap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/constants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/libs/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/libs/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Page.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610360560259</updated>
       <workItem from="1610360561330" duration="7839000" />
-      <workItem from="1610618464847" duration="9530000" />
+      <workItem from="1610618464847" duration="11923000" />
     </task>
     <task id="LOCAL−00001" summary="esimene ül">
       <created>1610528032789</created>
@@ -131,7 +127,13 @@
       <option name="presentableId" value="LOCAL−00009" />
       <updated>1610915219266</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL−00010" summary="Loodud ja testitud ühendus andmebaasiga">
+      <created>1610917454024</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1610917454025</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +161,8 @@
     <MESSAGE value="Loodud ja võetud kasutusele vaade failid" />
     <MESSAGE value="Lisatud kasutusele rakendusega seotud konstandid" />
     <MESSAGE value="Lisatud kasutusele vaade päis ja jalus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lisatud kasutusele vaade päis ja jalus" />
+    <MESSAGE value="Loodud ja testitud ühendus andmebaasiga" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loodud ja testitud ühendus andmebaasiga" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="238" key="#Deployment" timestamp="1610361130119">
